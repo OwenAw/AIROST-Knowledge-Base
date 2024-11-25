@@ -24,7 +24,12 @@ If you'd like to run the dashboard on your local machine, follow these steps:
 #### **Installation Steps**
 1. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install requests
+   pip install streamlit
+   pip install transfomers
+   pip install docx
+   pip install py-docx
+   pip insyall streamlit_option_menu
 
 2. Run the application:
    ```bash
